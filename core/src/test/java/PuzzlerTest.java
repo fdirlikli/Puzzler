@@ -14,7 +14,7 @@ import com.orwashere.puzzle.impl.BrainFuck;
  * Time: 5:25 PM
  * To change this template use File | Settings | File Templates.
  */
-public class CalculatorTest {
+public class PuzzlerTest {
     Puzzle testPuzzle;
 
     @Before

@@ -13,7 +13,7 @@ import com.orwashere.puzzle.impl.BrainFuck;
  * Time: 3:18 PM
  * To change this template use File | Settings | File Templates.
  */
-public class Solution
+public class Puzzlerr
 {
 
     public static void main(String[] args)
