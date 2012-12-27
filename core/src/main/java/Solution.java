@@ -1,10 +1,10 @@
-import puzzle.Puzzle;
-import java.awt.image.BufferedImage;
+package com.orwashere;
+import com.orwashere.puzzle.Puzzle;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import org.apache.commons.lang3.StringUtils;
-import puzzle.impl.BrainFuck;
+
+import com.orwashere.puzzle.impl.BrainFuck;
 
 /**
  * Created by IntelliJ IDEA.

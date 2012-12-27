@@ -1,4 +1,4 @@
-package puzzle;
+package com.orwashere.puzzle;
 
 /**
  * Created by IntelliJ IDEA.

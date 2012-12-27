@@ -1,5 +1,6 @@
-package puzzle.impl;
-import puzzle.Puzzle;
+package com.orwashere.puzzle.impl;
+
+import com.orwashere.puzzle.Puzzle;
 
 /**
  * Created by IntelliJ IDEA.

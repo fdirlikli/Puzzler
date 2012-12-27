@@ -1,9 +1,10 @@
+package com.orwashere;
 import org.apache.commons.lang3.StringUtils;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-import puzzle.Puzzle;
-import puzzle.impl.BrainFuck;
+import com.orwashere.puzzle.Puzzle;
+import com.orwashere.puzzle.impl.BrainFuck;
 
 
 /**
@@ -29,6 +30,7 @@ public class CalculatorTest {
         testPuzzle.solve();
         System.out.print(testPuzzle.getSolution());
         assertEquals("Hello World!", StringUtils.trim(testPuzzle.getSolution()));
+
     }
 
     @Before
